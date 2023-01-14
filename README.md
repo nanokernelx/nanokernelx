@@ -3,6 +3,12 @@
 - 🔭 Back-End Developer;
 - 🤔 Student at @RocketSeat
 
+<details>
+<summary>:trophy: Github Stats</summary>
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=niickdev">
+<img src="https://github-profile-trophy.vercel.app/?username=niickdev">
+</details>
+
 <!--
 **niickdev/niickdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
