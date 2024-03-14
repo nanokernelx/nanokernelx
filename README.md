@@ -1,7 +1,6 @@
 #### Hi there 👋
 
 - 🔭 Back-End Developer;
-- 🤔 Student at @Rocketseat
 
 <details>
 <summary>:trophy: Github Stats</summary>
