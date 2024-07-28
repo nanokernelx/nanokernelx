@@ -1,17 +1,17 @@
-# Bem-vindo ao meu perfil do GitHub! 👋
+# Welcome to my GitHub profile! 👋
 
-## Sobre Mim
-eu amo minecraft
+## About Me
+i <3 minecraft
 
-## Tecnologias e Ferramentas
+## Technologies and Tools
 
-### Linguagens
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Bancos de Dados
+### Database
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -21,9 +21,9 @@ eu amo minecraft
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
-## Contato
+## Contact
 - [Email](mailto:nicolas@byteforgfe.services)
 
-## Estatísticas do GitHub
+## EGitHub Stats
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=niickdev&show_icons=true&theme=radical)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=niickdev&layout=compact&theme=radical)
