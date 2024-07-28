@@ -24,6 +24,6 @@ i <3 minecraft
 ## Contact
 - [Email](mailto:nicolas@byteforgfe.services)
 
-## EGitHub Stats
+## GitHub Stats
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=niickdev&show_icons=true&theme=radical)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=niickdev&layout=compact&theme=radical)
