@@ -70,7 +70,3 @@ I'm a passionate full-stack developer with a knack for creating elegant solution
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nanokernel/nanokernel/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
